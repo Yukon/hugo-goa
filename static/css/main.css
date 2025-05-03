@@ -66,7 +66,7 @@ li
 {
     overflow: auto;
 
-    max-width: 680px;
+    max-width: 960px;
     padding: 0 15px;
 }
 .content
@@ -78,9 +78,9 @@ div.content
 {
     font-family: 'Roboto', sans-serif;
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 400;
 
-    color: #777;
+    color: #222;
 }
 .copyright
 {
@@ -118,7 +118,7 @@ div.content
     font-size: 18px;
     font-weight: 200;
 
-    color: #555;
+    color: #222;
     margin-bottom: 20px;
 }
 .footer
@@ -238,7 +238,7 @@ section.meta {
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
 
-    color: #555;
+    color: #222;
 }
 header.title
 {
